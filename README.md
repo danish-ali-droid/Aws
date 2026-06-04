@@ -173,10 +173,6 @@ This repository evolves continuously. Upcoming additions planned on the roadmap:
 
 ---
 
-## 🤝 Connect With Me
-
-I'm an aspiring Cloud & DevOps Engineer passionate about building secure, scalable, and automated cloud infrastructure. Open to collaborations, feedback, and new opportunities.
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Danish_Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
@@ -186,10 +182,4 @@ I'm an aspiring Cloud & DevOps Engineer passionate about building secure, scalab
 
 ---
 
-<div align="center">
 
-*"Infrastructure is not just servers and cables — it's the backbone of every digital experience."*
-
-⭐ **If you find this repository valuable, consider giving it a star!**
-
-</div>
